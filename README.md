@@ -1,1 +1,1 @@
-# Travel-Assistant
+Kore. ai's XO Platform enables you to launch enterprise-grade, AI-enabled conversational Virtual Assistants using Bot Builder; an intuitive graphical interface for building, training, testing, and monitoring virtual assistants.
